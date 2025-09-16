@@ -28,7 +28,7 @@ const port = process.env.PORT || 5000;
 // Define allowed origins
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://govardhanfrontend.onrender.com"
+  "https://govardhanfron.onrender.com"
 ];
 
 // CORS Middleware
